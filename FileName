@@ -1,0 +1,20 @@
+
+javac -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar Add.java
+
+java -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar Add
+
+javac -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar FindHandle.java
+
+java -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar FindHandle
+
+javac -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar removePerson.java
+
+java -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar removePerson
+
+javac -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar links.java
+
+java -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar Links
+
+javac -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar traverse.java
+
+java -classpath .;.\imports\hgbdbje-1.3.jar;.\imports\hgdb-1.3.jar;.\imports\je-5.0.34.jar Traverse
